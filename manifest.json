@@ -1,6 +1,6 @@
 {
-  "name": "טופס קייטנה",
-  "short_name": "קייטנה",
+  "name": "דף ראשי יוסף",
+  "short_name": "דף ראשי",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
